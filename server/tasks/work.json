@@ -1,0 +1,60 @@
+[
+  {
+    "taskId": "asdsaasd",
+    "title": "My new task"
+  },
+  {
+    "taskId": "asd421saasd",
+    "title": "My new task",
+    "_deletedAt": 12312312123,
+    "_createdAt": 1294921949129
+  },
+  {
+    "taskId": "eG6zF05Kt",
+    "title": "my second !!!!! category",
+    "status": "new",
+    "_isDeleted": true,
+    "_createdAt": 1592430081545,
+    "_deletedAt": null
+  },
+  {
+    "taskId": "sQ4VrPRCE",
+    "title": "my second category",
+    "status": "new",
+    "_isDeleted": true,
+    "_createdAt": 1592430123247,
+    "_deletedAt": null
+  },
+  {
+    "taskId": "h3ST9Jxw6",
+    "title": "ItRun",
+    "status": "new",
+    "_isDeleted": true,
+    "_createdAt": 1592944627727,
+    "_deletedAt": null
+  },
+  {
+    "taskId": "UwAB1U5aw",
+    "title": "asdawedsae",
+    "status": "new",
+    "_isDeleted": false,
+    "_createdAt": 1593121803232,
+    "_deletedAt": null
+  },
+  {
+    "taskId": "7CdSOtnLZ",
+    "title": "awtfgawegvdsa",
+    "status": "new",
+    "_isDeleted": false,
+    "_createdAt": 1593121805110,
+    "_deletedAt": null
+  },
+  {
+    "taskId": "OcJcrg6rF",
+    "title": "WIN",
+    "status": "new",
+    "_isDeleted": false,
+    "_createdAt": 1594491042903,
+    "_deletedAt": null
+  }
+]
